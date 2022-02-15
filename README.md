@@ -6,6 +6,4 @@
 
 🌱 I like learning new stuff on React by reading Medium articles and solving challenges on https://www.frontendmentor.io/profile/haydee75 \
 
-😄 Pronouns: She/her
-
 Skills: HTML / CSS / SCSS / FLEXBOX / GRID / REACT / JS / JQUERY
